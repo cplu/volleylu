@@ -11,6 +11,7 @@
 	tools:context="com.luke.volleylu.MainActivity">
 
 	<TextView
+		android:id="@+id/result"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:text="Hello World!"/>
